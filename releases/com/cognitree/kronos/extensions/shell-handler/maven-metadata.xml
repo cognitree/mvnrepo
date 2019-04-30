@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.cognitree.kronos.extensions</groupId>
+  <artifactId>shell-handler</artifactId>
+  <versioning>
+    <release>2.2.2-RC1</release>
+    <versions>
+      <version>2.2.2-RC1</version>
+    </versions>
+    <lastUpdated>20190430063340</lastUpdated>
+  </versioning>
+</metadata>
